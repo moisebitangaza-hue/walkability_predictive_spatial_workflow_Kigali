@@ -73,9 +73,6 @@ Author
 ------
 [Insert author names]
 
-License
--------
-[Insert license]
 
 Citation
 --------
