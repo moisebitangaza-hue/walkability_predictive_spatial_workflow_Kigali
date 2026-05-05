@@ -1,7 +1,7 @@
 # walkability_predictive_spatial_workflow_Kigali
 Python code for a spatially validated walkability prediction workflow using Kigali participatory micro-audit data. It supports reproducible modelling of perceived walkability and walking discretion with spatial validation, calibration, conformal uncertainty, feature analysis, and decision-unit targeting.
 
-This script implements the modelling workflow used in the associated manuscript:
+This script implements the modelling workflow used in the associated study:
 "Spatially validated prediction of perceived walkability and perceived walking
 discretion in Kigali: A participatory micro-audit workflow for urban planning."
 
@@ -59,7 +59,7 @@ The script performs the following operations:
     validation protocols.
 13. Aggregates predicted risk to decision units and evaluates targeting
     performance against issue-count and random baselines.
-14. Exports paper-facing summary tables, figures, maps, and reproducibility
+14. Exports summary tables, figures, maps, and reproducibility
     manifests.
 
 Important interpretation
