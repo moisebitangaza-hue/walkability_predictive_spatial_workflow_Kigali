@@ -79,6 +79,6 @@ License
 
 Citation
 --------
-If using this code, please cite the associated paper and the archived software
-release DOI.
+If using this code, please cite the associated paper and the archived code
+release.
 """
